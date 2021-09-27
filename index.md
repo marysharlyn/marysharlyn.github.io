@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <meta charset="UTF-8">
-
+<head>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="">
-
+ <title> Persona 5</title>
+ </head>
 
 <body>
 
@@ -16,9 +17,9 @@
  <p>Hello, Futaba is my favorite character from Persona 5.</p>
   <br>
 <br>
- <p> <iframe width="420" height="315"
+ <iframe width="420" height="315"
 src="https://youtu.be/LJOhVboCdHk">
-  </iframe></p>
+  </iframe>
 
  </div>
 
