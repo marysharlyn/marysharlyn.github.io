@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="">
 <style>
 </style>
-<script src=""></script>
+
 <body>
 
 <img src="https://cdnen.samurai-gamers.com/wp-content/uploads/2017/02/27073021/Persona-5-Royal-Oracle.jpg" style="width:100%">
