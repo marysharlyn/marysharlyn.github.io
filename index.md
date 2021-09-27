@@ -13,8 +13,6 @@
   <br>
  <p>Hello, Futaba is my favorite character from Persona 5.</p>
   <br>
-<br>
-
 <a href="https://youtu.be/LJOhVboCdHk">Character Introduction</a>
  </div>
 
