@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>Persona 5</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
 <body style="background-color:lavenderBlush;"><br>
 <style>
 body {
@@ -22,12 +28,10 @@ body {
   <a href="https://youtu.be/LJOhVboCdHk">   </a>
 <br>
 
-<center><h2><b>EMAIL:</b> mballesteros@csus.edu </h2></center>
-<br>
 
-<h4><b>Programming languages I know:</b> Java, C, SQL, Python </h4>
-<h4><b>Programming languages I want to learn more:</b> Javascript, and C++ </h4>
-<br>
 
 
 </body>
+</html>
+
+
