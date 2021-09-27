@@ -34,4 +34,26 @@ body {
 </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>Persona 5</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="">
+<style>
+</style>
+<script src=""></script>
+<body>
+
+<img src="https://cdnen.samurai-gamers.com/wp-content/uploads/2017/02/27073021/Persona-5-Royal-Oracle.jpg" style="width:100%">
+
+<div class="">
+ <h1>This is a Heading</h1>
+ <p>This is a paragraph.</p>
+ <p>This is another paragraph.</p>
+</div>
+
+</body>
+</html>
+
 
