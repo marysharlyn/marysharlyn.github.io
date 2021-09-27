@@ -17,10 +17,8 @@
  <p>Hello, Futaba is my favorite character from Persona 5.</p>
   <br>
 <br>
- <iframe width="420" height="315"
-src="https://youtu.be/LJOhVboCdHk">
-  </iframe>
 
+<a href="https://youtu.be/LJOhVboCdHk">Character Introduction</a>
  </div>
 
 </body>
