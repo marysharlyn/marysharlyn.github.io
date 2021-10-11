@@ -1,5 +1,5 @@
-/***** Mary Ballesteros       ******
-****** CSC 196W Fall 2021     ******/
+/* Mary Ballesteros       
+  CSC 196W Fall 2021 */
 
 function getBigger(){
   
